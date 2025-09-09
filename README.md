@@ -42,8 +42,8 @@ The dataset is available at the link provided in the [dump file](dump/dump.txt).
 
 The NoSQL technology used for this project is **ElasticSearch**. For the creation of the dashboards, **Kibana** has been used.
 
-The dashboards created with Kibana are provided in the [Extras folder](Extras). Images of dashboards and queries are in the [Pictures folder](Pictures).
-
+The dashboards created with Kibana are provided in the [Extras folder](Extras).  
+Images of dashboards and queries are in the [Pictures folder](Pictures).  
 The queries and all the analyses are provided inside the [report file](SMBUD_Project-Report.pdf).
 
 ## Final Considerations
