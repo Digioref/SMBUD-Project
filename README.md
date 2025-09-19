@@ -1,10 +1,5 @@
 # Systems and Methods for Big and Unstructured Data: Project
 
-## Authors
-This Project was developed by:
-- Francesco Di Giore [@Digioref](https://github.com/Digioref)
-- Federico de Introna [@federicodeintrona](https://github.com/federicodeintrona)
-
 ## Introduction 
 This is the repository for the Project of Systems and Methods for Big and Unstructured Data in the academic year 2023/2024 at Polytechnic of Milan.
 
@@ -49,4 +44,7 @@ The queries and all the analyses are provided inside the [report file](SMBUD_Pro
 ## Final Considerations
 Final Mark: 2.5/2.0 (got 0.5 for the excellent work)
 
-
+## Authors
+This Project was developed by:
+- Francesco Di Giore [@Digioref](https://github.com/Digioref)
+- Federico de Introna [@federicodeintrona](https://github.com/federicodeintrona)
